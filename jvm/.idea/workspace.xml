@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3615e196-bdea-42df-a1b9-c35d71ff8611" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jDUXp4dBLxunQJkh1L6PKzG3Ss" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/新建文件夹/多线程/多线程全部资料/源代码/gaoji_day06" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.heap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\jvm\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MethodArea7">
+    <configuration name="MethodArea3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.methodArea.MethodArea3" />
+      <module name="jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.methodArea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodArea4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.methodArea.MethodArea4" />
+      <module name="jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.methodArea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodArea5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.methodArea.MethodArea5" />
+      <module name="jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.methodArea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodArea6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.methodArea.MethodArea6" />
+      <module name="jvm" />
+      <option name="VM_PARAMETERS" value="-Xmx10m -XX:+PrintStringTableStatistics -XX:+PrintGCDetails -verbose:gc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.methodArea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodArea7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.methodArea.MethodArea7" />
+      <module name="jvm" />
+      <option name="PROGRAM_PARAMETERS" value="10000" />
+      <option name="VM_PARAMETERS" value="-Xms500m -Xmx500m -XX:+PrintStringTableStatistics -XX:StringTableSize=1009" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.methodArea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="E:/maven/apache-maven-3.6.0" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="updateIndicesOnProjectOpen" value="true" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.0\conf\settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MethodArea3" />
+      <item itemvalue="Application.MethodArea4" />
+      <item itemvalue="Application.MethodArea5" />
+      <item itemvalue="Application.MethodArea6" />
+      <item itemvalue="Application.MethodArea7" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodArea7" />
+        <item itemvalue="Application.MethodArea6" />
+        <item itemvalue="Application.MethodArea5" />
+        <item itemvalue="Application.MethodArea4" />
+        <item itemvalue="Application.MethodArea3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3615e196-bdea-42df-a1b9-c35d71ff8611" name="Default Changelist" comment="" />
+      <created>1603338197334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603338197334</updated>
+      <workItem from="1603338199852" duration="6200000" />
+      <workItem from="1603357013592" duration="2798000" />
+      <workItem from="1603414995904" duration="6101000" />
+      <workItem from="1603424088298" duration="2090000" />
+      <workItem from="1603434384202" duration="372000" />
+      <workItem from="1603436618948" duration="3049000" />
+      <workItem from="1603441903102" duration="42000" />
+      <workItem from="1604021467409" duration="6058000" />
+      <workItem from="1604039093324" duration="2421000" />
+      <workItem from="1604044243001" duration="12000" />
+      <workItem from="1604214470670" duration="2869000" />
+      <workItem from="1604281736950" duration="5845000" />
+      <workItem from="1604298827101" duration="1876000" />
+      <workItem from="1604365800806" duration="5000" />
+      <workItem from="1604461098804" duration="3000" />
+      <workItem from="1606959664541" duration="2700000" />
+      <workItem from="1606981390415" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="122" key="#Project_Structure" timestamp="1603358508856">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="122" key="#Project_Structure/0.0.1440.920@0.0.1440.920" timestamp="1603358508856" />
+    <state x="176" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604300689913">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="176" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1604300689913" />
+    <state x="211" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1728.1112@0.0.1728.1112" timestamp="1604024981545" />
+    <state x="526" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1603356331615">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1603356331615" />
+    <state x="432" y="157" key="EnvironmentVariablesDialog" timestamp="1604300662980">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="432" y="157" key="EnvironmentVariablesDialog/0.0.1440.920@0.0.1440.920" timestamp="1604300662980" />
+    <state x="534" y="195" key="FileChooserDialogImpl" timestamp="1603441945350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="218" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1603415304441" />
+    <state x="534" y="195" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603441945350" />
+    <state width="1397" height="247" key="GridCell.Tab.0.bottom" timestamp="1604300718740">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="247" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1604300718740" />
+    <state width="1685" height="460" key="GridCell.Tab.0.bottom/0.0.1728.1112@0.0.1728.1112" timestamp="1604041935913" />
+    <state width="1397" height="247" key="GridCell.Tab.0.center" timestamp="1604300718740">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="247" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1604300718740" />
+    <state width="1685" height="460" key="GridCell.Tab.0.center/0.0.1728.1112@0.0.1728.1112" timestamp="1604041935913" />
+    <state width="1397" height="247" key="GridCell.Tab.0.left" timestamp="1604300718740">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="247" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1604300718740" />
+    <state width="1685" height="460" key="GridCell.Tab.0.left/0.0.1728.1112@0.0.1728.1112" timestamp="1604041935913" />
+    <state width="1397" height="247" key="GridCell.Tab.0.right" timestamp="1604300718740">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="247" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1604300718740" />
+    <state width="1685" height="460" key="GridCell.Tab.0.right/0.0.1728.1112@0.0.1728.1112" timestamp="1604041935913" />
+    <state width="1397" height="355" key="GridCell.Tab.1.bottom" timestamp="1604293301657">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="355" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1604293301657" />
+    <state width="1685" height="271" key="GridCell.Tab.1.bottom/0.0.1728.1112@0.0.1728.1112" timestamp="1604028854306" />
+    <state width="1397" height="355" key="GridCell.Tab.1.center" timestamp="1604293301657">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="355" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1604293301657" />
+    <state width="1685" height="271" key="GridCell.Tab.1.center/0.0.1728.1112@0.0.1728.1112" timestamp="1604028854306" />
+    <state width="1397" height="355" key="GridCell.Tab.1.left" timestamp="1604293301657">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="355" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1604293301657" />
+    <state width="1685" height="271" key="GridCell.Tab.1.left/0.0.1728.1112@0.0.1728.1112" timestamp="1604028854306" />
+    <state width="1397" height="355" key="GridCell.Tab.1.right" timestamp="1604293301657">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="355" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1604293301657" />
+    <state width="1685" height="271" key="GridCell.Tab.1.right/0.0.1728.1112@0.0.1728.1112" timestamp="1604028854306" />
+    <state x="201" y="38" key="SettingsEditor" timestamp="1603424013443">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="201" y="38" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1603424013443" />
+    <state x="460" y="236" width="807" height="820" key="search.everywhere.popup" timestamp="1604022892333">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1603418654756" />
+    <state x="460" y="236" width="807" height="820" key="search.everywhere.popup/0.0.1728.1112@0.0.1728.1112" timestamp="1604022892333" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/methodArea/MethodArea4.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/methodArea/MethodArea4.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/methodArea/MethodArea4.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
